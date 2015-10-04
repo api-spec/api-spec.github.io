@@ -9,7 +9,6 @@ Table of Contents
 
 * [Formats](#formats)
   * [Swagger](#swagger)
-  * [Swagger](#swagger)
   * [API Blueprint](#api-blueprint)
   * [RAML](#raml)
 * [External resources](#external-resources)
